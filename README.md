@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=2E8B57&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=60&lines=Writing+code%2C+mostly+in+Java;Sometimes+it's+a+Minecraft+mod;Sometimes+it's+something+else+entirely" alt="Typing SVG" />
 </p>
 
-I build things in code, mostly Java. Some of it ends up as Minecraft mods, some of it is just tools or ideas I wanted to try out. What's public right now leans modding since that's what I've pushed lately, not the whole picture.
+Java dev. I build whatever I feel like, mods included.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
