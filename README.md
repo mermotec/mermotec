@@ -24,6 +24,6 @@ General developer. I build apps and mods for whatever I need, and putting them h
 | [Extended-Hitbox](https://github.com/mermotec/Extended-Hitbox) | Minecraft mod that expands entity hitboxes so they're easier to hit. Toggle with a key or command. |
 | [Frequent-Traders](https://github.com/mermotec/Frequent-Traders) | Speedup Wandering Trader spawn rates, configurable. |
 | [Simple-Gravity-Gun](https://github.com/mermotec/Simple-Gravity-Gun) | Minecraft mod that adds a simple gravity gun. |
-| Discord-Cloud | Discord bot and localhost browser that lets you store big files in chunks on Discord and use it as a cloud for free!. |
+| Discord-Cloud | Discord bot and localhost browser that lets you store big files in chunks on Discord and use it as a cloud for free. |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2E8B57&height=90&section=footer" width="100%"/>
