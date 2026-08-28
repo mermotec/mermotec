@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1e2327&height=180&section=header&text=mermotec&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer&descAlignY=55&descSize=16" width="100%"/>
 </p>
 
-General developer. I build apps and mods for whatever I need, and I like putting them out there.
+General developer. I build apps and mods for whatever I need, and putting them here for people to use.
 
 <p align="center">
   <a href="https://www.curseforge.com/members/mermotec/projects">
@@ -21,10 +21,8 @@ General developer. I build apps and mods for whatever I need, and I like putting
 
 | repo | what it does |
 |---|---|
-| [Extended-Hitbox](https://github.com/mermotec/Extended-Hitbox) | Fabric mod for 1.21.4 that expands entity hitboxes so they're easier to hit. Toggle with a key or command. |
-| [Frequent-Traders](https://github.com/mermotec/Frequent-Traders) | Bumps up Wandering Trader spawn rates, configurable. |
-| [Simple-Gravity-Gun](https://github.com/mermotec/Simple-Gravity-Gun) | Does what it says, a gravity gun for Minecraft. |
-| [BallistixHarderToCraft](https://github.com/mermotec/BallistixHarderToCraft) | Fork of Ballistix, made the recipes harder to get. |
-| [SecurityCraftBallistixSupport](https://github.com/mermotec/SecurityCraftBallistixSupport) | Fork of SecurityCraft, lets the Trophy intercept Ballistix missiles. |
+| [Extended-Hitbox](https://github.com/mermotec/Extended-Hitbox) | Minecraft mod that expands entity hitboxes so they're easier to hit. Toggle with a key or command. |
+| [Frequent-Traders](https://github.com/mermotec/Frequent-Traders) | Speedup Wandering Trader spawn rates, configurable. |
+| [Simple-Gravity-Gun](https://github.com/mermotec/Simple-Gravity-Gun) | Minecraft mod that adds a simple gravity gun. |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2E8B57&height=90&section=footer" width="100%"/>
