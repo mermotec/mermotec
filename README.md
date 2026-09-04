@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1e2327&height=180&section=header&text=mermotec&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer&descAlignY=55&descSize=16" width="100%"/>
 </p>
 
-General developer. I build apps and mods for whatever I need, and putting them here for people to use.
+Software developer. I build apps and mods for whatever I need, and putting them here for people to use.
 
 <p align="center">
   <a href="https://www.curseforge.com/members/mermotec/projects">
