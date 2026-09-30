@@ -21,6 +21,7 @@ Software developer. I build apps and mods for whatever I need, and putting them 
 
 | repo | what it does |
 |---|---|
+| [ServerPress](https://www.curseforge.com/minecraft/mc-mods/serverpress) | Minecraft mod brings articles into Minecraft servers. |
 | [Extended-Hitbox](https://github.com/mermotec/Extended-Hitbox) | Minecraft mod that expands entity hitboxes so they're easier to hit. Toggle with a key or command. |
 | [Frequent-Traders](https://github.com/mermotec/Frequent-Traders) | Speedup Wandering Trader spawn rates, configurable. |
 | [Simple-Gravity-Gun](https://github.com/mermotec/Simple-Gravity-Gun) | Minecraft mod that adds a simple gravity gun. |
